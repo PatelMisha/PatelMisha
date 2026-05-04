@@ -84,12 +84,9 @@ Terraform       Learning
 
 ---
 
-#### GitHub Stats
+#### Contribution Activity
 
-<div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=PatelMisha&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=00f0ff&text_color=8b949e&ring_color=00f0ff" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatelMisha&layout=compact&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=8b949e" />
-</div>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PatelMisha&bg_color=0d1117&color=00f0ff&line=00f0ff&point=ffffff&area=true&area_color=00f0ff&hide_border=true)](https://github.com/PatelMisha)
 
 ---
 
