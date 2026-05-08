@@ -86,7 +86,7 @@ Terraform       Learning
 
 #### Contribution Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PatelMisha&bg_color=0d1117&color=00f0ff&line=00f0ff&point=ffffff&area=true&area_color=00f0ff&hide_border=true)](https://github.com/PatelMisha)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PatelMisha&bg_color=0d1117&color=00f0ff&line=00f0ff&point=ffffff&area=true&area_color=00f0ff&hide_border=true&v=2)](https://github.com/PatelMisha)
 
 ---
 
